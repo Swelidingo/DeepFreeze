@@ -1,1 +1,1 @@
-msiexec.exe /i "\\mdtsrvr\applications\sb1910\sb1990.msi" /qn
+msiexec.exe /i "\\mdtsrvr\applications\sb1990\sb1990.msi" /qn
