@@ -1,1 +1,1 @@
-cmd.exe "\\172.26.151.13\applications\dcu\dell-command-update.exe" /S /v/qn
+dcu-cli.exe" -Parameters '/applyupdates -reboot=enable -encryptedPasswordFile=\\mdtsrvr\applications\dcu\EncryptedPassword.txt -encryptionKey="Mittnamn1!"'
