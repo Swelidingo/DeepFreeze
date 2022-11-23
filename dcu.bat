@@ -1,1 +1,1 @@
-c:\dcu-cli.exe" /applyupdates -reboot=enable -encryptedPasswordFile="\\mdtsrvr\applications\dcu\EncryptedPassword.txt" -encryptionKey="Mittnamn1!"
+c:\commandupdate\dcu-cli.exe" /applyupdates -reboot=enable -encryptedPasswordFile="\\mdtsrvr\applications\dcu\EncryptedPassword.txt" -encryptionKey="Mittnamn1!"
